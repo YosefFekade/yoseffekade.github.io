@@ -1,0 +1,28 @@
+
+img{
+    border-radius: 50%;
+}
+#work{
+    background-color: #6499E9;
+    margin-bottom: 100px;
+}
+.wrapper{
+    display: grid;
+    margin: 80px;
+    grid-template-columns: 1fr 3fr;
+    grid-template-rows: 4fr 1f;
+    gap: 10px;
+    margin-bottom: 100px;
+}
+#hello{
+    background-color: #D7BBF5;
+}
+#hero{
+    background-color: #6499E9;
+}
+.market{
+    margin-bottom: 100px;
+}
+#foot{
+    background-color: #F3D7CA;
+}
